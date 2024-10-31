@@ -9,6 +9,6 @@ A project for Sillapa hatthagum 2024 [ศิลปหัตถกรรมคร
 * @Poomyyyy
 #### Project consultant
 - Phornphimon Klompanya
-### Info
+## Info
 [Demo offline website code]
 Searching Database (book) in website and used Xampp as web server that keep database (book).
