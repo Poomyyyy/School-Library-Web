@@ -2,12 +2,12 @@
 
 A project for Sillapa hatthagum 2024 [ศิลปหัตถกรรมครั้งที่ 71]
 ## Contributor
-Font-end
-- @jiwmastered
-Back-end
-- @Marinku099
-- @Poomyyyy
-Project consultant
+#### Font-end
+* @jiwmastered
+#### Back-end
+* @Marinku099
+* @Poomyyyy
+#### Project consultant
 - Phornphimon Klompanya
 ### Info
 [Demo offline website code]
