@@ -126,8 +126,8 @@
                   }
                   document.getElementById("result-cnt").innerHTML = "ผลการค้นหา " + response.result.length + " รายการ";
                   $("#tbody").html(html)
-              }, erro: function(err) {
-                  console.log("bad", err)
+              }, error: function(error) {
+                  console.log("bad", error)
               }
           })
       }
